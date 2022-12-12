@@ -1,0 +1,7 @@
+.blog-elem img{
+    width:20%;
+}
+
+.spinner-load, #prev-btn, #next-btn{
+    display:none;
+}
